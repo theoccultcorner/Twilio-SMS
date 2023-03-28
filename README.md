@@ -22,9 +22,11 @@ Before you can use this project, you will need to set up a Twilio account and ob
 Once you have your Twilio account set up, create a .env file in the project directory and add your Account SID, Auth Token, and phone number:
 
 
-TWILIO_ACCOUNT_SID= <your_account_sid>
-TWILIO_AUTH_TOKEN= <your_auth_token>
-TWILIO_PHONE_NUMBER= <your_twilio_phone_number>
+TWILIO_ACCOUNT_SID=<your_account_sid>
+
+TWILIO_AUTH_TOKEN=<your_auth_token>
+
+TWILIO_PHONE_NUMBER=<your_twilio_phone_number>
 
 To send an SMS message, run the send-sms.js script with the recipient's phone number and the message as command-line arguments:
 
