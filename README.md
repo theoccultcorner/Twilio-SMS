@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Usage
 Before you can use this project, you will need to set up a Twilio account and obtain your Account SID and Auth Token. You will also need to purchase a phone number from Twilio that you can use to send SMS messages.
 
-Once you have your Twilio account set up, rename the .env.example file to .env in the project directory and add your Account SID, Auth Token, and phone number:
+Once you have your Twilio account set up, rename the .env.example file to .env in the project directory and add your Account SID, Auth Token, and phone numbers:
 
  
 ```bash
