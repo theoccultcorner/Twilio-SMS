@@ -6,15 +6,15 @@ This is a simple Node.js project that demonstrates how to send SMS messages usin
 Installation
 To install this project, clone the repository from GitHub:
 
-git clone https://github.com/theoccultcorner/Twilio-SMS.git
+* git clone https://github.com/theoccultcorner/Twilio-SMS.git
 
 Then, navigate to the project directory and install the dependencies using npm:
 
-cd Twilio-SMS
+* cd Twilio-SMS
 
-npm install
+* npm install
 
-npm start
+* npm start
 
 Usage
 Before you can use this project, you will need to set up a Twilio account and obtain your Account SID and Auth Token. You will also need to purchase a phone number from Twilio that you can use to send SMS messages.
@@ -22,24 +22,24 @@ Before you can use this project, you will need to set up a Twilio account and ob
 Once you have your Twilio account set up, create a .env file in the project directory and add your Account SID, Auth Token, and phone number:
 
 
-TWILIO_ACCOUNT_SID=<your_account_sid>
+* TWILIO_ACCOUNT_SID=<your_account_sid>
 
-TWILIO_AUTH_TOKEN=<your_auth_token>
+* TWILIO_AUTH_TOKEN=<your_auth_token>
 
 The phone number where you want to receive messages
 
-TO_PHONE_NUMBER= <your_phone_number>
+* TO_PHONE_NUMBER= <your_phone_number>
 
-TWILIO_PHONE_NUMBER=<your_twilio_phone_number>
+* TWILIO_PHONE_NUMBER=<your_twilio_phone_number>
 
 To send an SMS message, run the send-sms.js script with the recipient's phone number and the message as command-line arguments:
 
 Contributing
 If you find a bug or have an idea for a new feature, feel free to open an issue or submit a pull request.
 
-MIT License
+* MIT License
 
-Copyright (c) 2023 TheOccultCorner
+* Copyright (c) 2023 TheOccultCorner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
