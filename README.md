@@ -28,7 +28,7 @@ TWILIO_AUTH_TOKEN=<your_auth_token>
 
 The phone number where you want to receive messages
 
-TO_PHONE_NUMBER= 
+TO_PHONE_NUMBER= <your_phone_number>
 
 TWILIO_PHONE_NUMBER=<your_twilio_phone_number>
 
