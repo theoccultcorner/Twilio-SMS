@@ -32,9 +32,7 @@ app.post('/send-message', (req, res) => {
     })
     .then(message => {
       console.log('Message sent with SID:', message.sid);
-      console.log('Message sent with SID:', message.name);
-      console.log('Message sent with SID:', message.phone);
-      console.log('Message sent with SID:', message.messageBody);
+ 
       res.send('Message sent successfully! Thank you!');
 
 
