@@ -34,8 +34,6 @@ The phone number where you want to receive messages
 
 * TWILIO_PHONE_NUMBER=<your_twilio_phone_number>
 ```
-To send an SMS message, run the send-sms.js script with the recipient's phone number and the message as command-line arguments:
-
 Contributing
 If you find a bug or have an idea for a new feature, feel free to open an issue or submit a pull request.
 
