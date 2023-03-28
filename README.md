@@ -35,9 +35,9 @@ The phone number where you want to receive messages
 Contributing
 If you find a bug or have an idea for a new feature, feel free to open an issue or submit a pull request.
 
-_ MIT License
+ MIT License
 
-_ Copyright (c) 2023 TheOccultCorner
+ Copyright (c) 2023 TheOccultCorner
   
  [http:/nevarezmarketing.com](http://nevarezmarketing.com)
 
