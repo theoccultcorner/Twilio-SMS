@@ -39,7 +39,9 @@ If you find a bug or have an idea for a new feature, feel free to open an issue 
 
 * MIT License
 
-* Copyright (c) 2023 TheOccultCorner [http:/nevarezmarketing.com](http://nevarezmarketing.com)
+* Copyright (c) 2023 TheOccultCorner
+ 
+* [http:/nevarezmarketing.com](http://nevarezmarketing.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
