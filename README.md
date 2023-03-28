@@ -2,11 +2,11 @@
 Receive SMS text messages from your Website form
  
 # Installation
-*To install this project, clone the repository from GitHub:
+To install this project, clone the repository from GitHub:
 ```bash
 git clone https://github.com/theoccultcorner/Twilio-SMS.git
 ```
-*Then, navigate to the project directory and install the dependencies using npm:
+Then, navigate to the project directory and install the dependencies using npm:
 ```bash
  cd Twilio-SMS
 
