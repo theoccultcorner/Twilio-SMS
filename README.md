@@ -40,9 +40,9 @@ If you find a bug or have an idea for a new feature, feel free to open an issue 
 * MIT License
 
 * Copyright (c) 2023 TheOccultCorner
- ```bash
-* [http:/nevarezmarketing.com](http://nevarezmarketing.com)
-```
+  
+ [http:/nevarezmarketing.com](http://nevarezmarketing.com)
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
